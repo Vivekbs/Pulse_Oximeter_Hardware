@@ -1,0 +1,239 @@
+Post Processor Report
+OrCAD FILE: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.MAX
+Tue Dec 02 05:03:27 2014
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.TOP
+Note: A 2 mil line was used to simulate a non-orthogonal square pad.
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.TOP:
+---------------------------------------------------------
+D10:  0.1100 ROUND  --       0 Draws,       2 Flashes
+D11:  0.0500 SQUARE --       0 Draws,       8 Flashes
+D12:  0.0220 SQUARE --       0 Draws,      36 Flashes
+D13:  0.0709 x 0.0590 RECTANGLE -----       2 Flashes
+D14:  0.0320 x 0.0380 RECTANGLE -----       2 Flashes
+D15:  0.0401 ROUND  --       0 Draws,       5 Flashes
+D16:  0.0380 x 0.0320 RECTANGLE -----       2 Flashes
+D17:  0.0020 ROUND  --     264 Draws,       0 Flashes
+D18:  0.1575 SQUARE --       0 Draws,       1 Flashes
+D19:  0.0335 x 0.0110 OBLONG    -----      20 Flashes
+D20:  0.0110 x 0.0335 OBLONG    -----      20 Flashes
+D21:  0.0394 x 0.0138 RECTANGLE -----       6 Flashes
+D22:  0.0315 x 0.0630 RECTANGLE -----       2 Flashes
+D23:  0.0590 x 0.0197 RECTANGLE -----       8 Flashes
+D24:  0.0433 x 0.0177 RECTANGLE -----       8 Flashes
+D25:  0.0394 x 0.0197 RECTANGLE -----       2 Flashes
+D26:  0.0256 x 0.0295 RECTANGLE -----       4 Flashes
+D27:  0.0200 ROUND  --       0 Draws,      62 Flashes
+D28:  0.0100 ROUND  --    2014 Draws,       0 Flashes
+D29:  0.0080 ROUND  --     283 Draws,       1 Flashes
+D30:  0.0200 ROUND  --       0 Draws,      15 Flashes
+---------------------------------------------------------
+ 21 D-Codes      -----    2561 Draws,     206 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.BOT
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.BOT:
+---------------------------------------------------------
+D15:  0.0401 ROUND  --       0 Draws,       5 Flashes
+D27:  0.0200 ROUND  --       0 Draws,      62 Flashes
+D28:  0.0100 ROUND  --    2132 Draws,       0 Flashes
+D29:  0.0080 ROUND  --      47 Draws,       0 Flashes
+D30:  0.0200 ROUND  --       0 Draws,      14 Flashes
+D31:  0.1000 ROUND  --       0 Draws,       2 Flashes
+D32:  0.0394 x 0.0276 RECTANGLE -----       4 Flashes
+D33:  0.0010 ROUND  --     866 Draws,       0 Flashes
+D34:  0.0200 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----    3045 Draws,      88 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.GND
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.GND:
+---------------------------------------------------------
+D28:  0.0100 ROUND  --     589 Draws,       0 Flashes
+D35:  0.1400 ROUND  --       0 Draws,       2 Flashes
+D36:  0.0680 OD, 0.0520 ID THERMAL --       1 Flashes
+D37:  0.0450 ROUND  --       0 Draws,       4 Flashes
+D38:  0.0250 ROUND  --       0 Draws,       5 Flashes
+D39:  0.0500 OD, 0.0340 ID THERMAL --      30 Flashes
+D40:  0.0250 ROUND  --       0 Draws,      27 Flashes
+D41:  0.0200 ROUND  --      37 Draws,       0 Flashes
+D42:  0.0250 ROUND  --       0 Draws,      15 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----     626 Draws,      84 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.PWR
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.PWR:
+---------------------------------------------------------
+D28:  0.0100 ROUND  --     589 Draws,       0 Flashes
+D35:  0.1400 ROUND  --       0 Draws,       2 Flashes
+D36:  0.0680 OD, 0.0520 ID THERMAL --       1 Flashes
+D39:  0.0500 OD, 0.0340 ID THERMAL --      21 Flashes
+D40:  0.0250 ROUND  --       0 Draws,      41 Flashes
+D41:  0.0200 ROUND  --      37 Draws,       0 Flashes
+D42:  0.0250 ROUND  --       0 Draws,      15 Flashes
+D43:  0.0450 ROUND  --       0 Draws,       4 Flashes
+---------------------------------------------------------
+  8 D-Codes      -----     626 Draws,      84 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.SMT
+Note: A 2 mil line was used to simulate a non-orthogonal square pad.
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.SMT:
+---------------------------------------------------------
+D17:  0.0020 ROUND  --     300 Draws,       0 Flashes
+D28:  0.0100 ROUND  --     275 Draws,       0 Flashes
+D44:  0.1050 ROUND  --       0 Draws,       2 Flashes
+D45:  0.0549 SQUARE --       0 Draws,       8 Flashes
+D46:  0.0270 SQUARE --       0 Draws,      36 Flashes
+D47:  0.0758 x 0.0640 RECTANGLE -----       2 Flashes
+D48:  0.0370 x 0.0430 RECTANGLE -----       2 Flashes
+D49:  0.0450 ROUND  --       0 Draws,       5 Flashes
+D50:  0.0430 x 0.0370 RECTANGLE -----       2 Flashes
+D51:  0.1624 SQUARE --       0 Draws,       1 Flashes
+D52:  0.0384 x 0.0159 OBLONG    -----      20 Flashes
+D53:  0.0159 x 0.0384 OBLONG    -----      20 Flashes
+D54:  0.0443 x 0.0187 RECTANGLE -----       6 Flashes
+D55:  0.0364 x 0.0679 RECTANGLE -----       2 Flashes
+D56:  0.0640 x 0.0246 RECTANGLE -----       8 Flashes
+D57:  0.0482 x 0.0226 RECTANGLE -----       8 Flashes
+D58:  0.0443 x 0.0246 RECTANGLE -----       2 Flashes
+D59:  0.0305 x 0.0344 RECTANGLE -----       4 Flashes
+---------------------------------------------------------
+ 18 D-Codes      -----     575 Draws,     128 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.SMB
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.SMB:
+---------------------------------------------------------
+D28:  0.0100 ROUND  --     283 Draws,       0 Flashes
+D33:  0.0010 ROUND  --     866 Draws,       0 Flashes
+D41:  0.0200 ROUND  --      13 Draws,       0 Flashes
+D44:  0.1050 ROUND  --       0 Draws,       2 Flashes
+D60:  0.0443 x 0.0325 RECTANGLE -----       4 Flashes
+---------------------------------------------------------
+  5 D-Codes      -----    1162 Draws,       6 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.SST
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.SST:
+---------------------------------------------------------
+D28:  0.0100 ROUND  --     280 Draws,       0 Flashes
+D41:  0.0200 ROUND  --       4 Draws,       0 Flashes
+D61:  0.0060 ROUND  --       7 Draws,       0 Flashes
+D62:  0.0050 ROUND  --     406 Draws,       0 Flashes
+---------------------------------------------------------
+  4 D-Codes      -----     697 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.SSB
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.SSB:
+---------------------------------------------------------
+D28:  0.0100 ROUND  --     930 Draws,       2 Flashes
+D62:  0.0050 ROUND  --      18 Draws,       0 Flashes
+D63:  0.0070 ROUND  --       3 Draws,       0 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----     951 Draws,       2 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.DRD
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.DRD:
+---------------------------------------------------------
+D28:  0.0100 ROUND  --     773 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----     773 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.FAB
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\NAZGUL\MY DOCUMENTS\DROPBOX\BOARD DESIGN\GERBER FILES\BLE SPO2\BLE SPO2.FAB:
+---------------------------------------------------------
+D28:  0.0100 ROUND  --     256 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----     256 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.1100 ROUND  --       0 Draws,       2 Flashes
+D11:  0.0500 SQUARE --       0 Draws,       8 Flashes
+D12:  0.0220 SQUARE --       0 Draws,      36 Flashes
+D13:  0.0709 x 0.0590 RECTANGLE -----       2 Flashes
+D14:  0.0320 x 0.0380 RECTANGLE -----       2 Flashes
+D15:  0.0401 ROUND  --       0 Draws,      10 Flashes
+D16:  0.0380 x 0.0320 RECTANGLE -----       2 Flashes
+D17:  0.0020 ROUND  --     564 Draws,       0 Flashes
+D18:  0.1575 SQUARE --       0 Draws,       1 Flashes
+D19:  0.0335 x 0.0110 OBLONG    -----      20 Flashes
+D20:  0.0110 x 0.0335 OBLONG    -----      20 Flashes
+D21:  0.0394 x 0.0138 RECTANGLE -----       6 Flashes
+D22:  0.0315 x 0.0630 RECTANGLE -----       2 Flashes
+D23:  0.0590 x 0.0197 RECTANGLE -----       8 Flashes
+D24:  0.0433 x 0.0177 RECTANGLE -----       8 Flashes
+D25:  0.0394 x 0.0197 RECTANGLE -----       2 Flashes
+D26:  0.0256 x 0.0295 RECTANGLE -----       4 Flashes
+D27:  0.0200 ROUND  --       0 Draws,     124 Flashes
+D28:  0.0100 ROUND  --    8121 Draws,       2 Flashes
+D29:  0.0080 ROUND  --     330 Draws,       1 Flashes
+D30:  0.0200 ROUND  --       0 Draws,      29 Flashes
+D31:  0.1000 ROUND  --       0 Draws,       2 Flashes
+D32:  0.0394 x 0.0276 RECTANGLE -----       4 Flashes
+D33:  0.0010 ROUND  --    1732 Draws,       0 Flashes
+D34:  0.0200 ROUND  --       0 Draws,       1 Flashes
+D35:  0.1400 ROUND  --       0 Draws,       4 Flashes
+D36:  0.0680 OD, 0.0520 ID THERMAL --       2 Flashes
+D37:  0.0450 ROUND  --       0 Draws,       4 Flashes
+D38:  0.0250 ROUND  --       0 Draws,       5 Flashes
+D39:  0.0500 OD, 0.0340 ID THERMAL --      51 Flashes
+D40:  0.0250 ROUND  --       0 Draws,      68 Flashes
+D41:  0.0200 ROUND  --      91 Draws,       0 Flashes
+D42:  0.0250 ROUND  --       0 Draws,      30 Flashes
+D43:  0.0450 ROUND  --       0 Draws,       4 Flashes
+D44:  0.1050 ROUND  --       0 Draws,       4 Flashes
+D45:  0.0549 SQUARE --       0 Draws,       8 Flashes
+D46:  0.0270 SQUARE --       0 Draws,      36 Flashes
+D47:  0.0758 x 0.0640 RECTANGLE -----       2 Flashes
+D48:  0.0370 x 0.0430 RECTANGLE -----       2 Flashes
+D49:  0.0450 ROUND  --       0 Draws,       5 Flashes
+D50:  0.0430 x 0.0370 RECTANGLE -----       2 Flashes
+D51:  0.1624 SQUARE --       0 Draws,       1 Flashes
+D52:  0.0384 x 0.0159 OBLONG    -----      20 Flashes
+D53:  0.0159 x 0.0384 OBLONG    -----      20 Flashes
+D54:  0.0443 x 0.0187 RECTANGLE -----       6 Flashes
+D55:  0.0364 x 0.0679 RECTANGLE -----       2 Flashes
+D56:  0.0640 x 0.0246 RECTANGLE -----       8 Flashes
+D57:  0.0482 x 0.0226 RECTANGLE -----       8 Flashes
+D58:  0.0443 x 0.0246 RECTANGLE -----       2 Flashes
+D59:  0.0305 x 0.0344 RECTANGLE -----       4 Flashes
+D60:  0.0443 x 0.0325 RECTANGLE -----       4 Flashes
+D61:  0.0060 ROUND  --       7 Draws,       0 Flashes
+D62:  0.0050 ROUND  --     424 Draws,       0 Flashes
+D63:  0.0070 ROUND  --       3 Draws,       0 Flashes
+---------------------------------------------------------
+ 54 D-Codes      -----   11272 Draws,     598 Flashes
+
+
+No warnings or errors.
